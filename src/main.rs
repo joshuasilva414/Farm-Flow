@@ -1,4 +1,3 @@
-mod farm;
 mod model;
 
 fn main() {
