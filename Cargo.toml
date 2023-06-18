@@ -1,5 +1,5 @@
 [package]
-name = "FarmFlow"
+name = "farm_flow"
 version = "0.1.0"
 edition = "2021"
 
